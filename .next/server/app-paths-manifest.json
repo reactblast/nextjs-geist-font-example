@@ -1,0 +1,7 @@
+{
+  "/api/bin/bulk/route": "app/api/bin/bulk/route.js",
+  "/api/bin/lookup/route": "app/api/bin/lookup/route.js",
+  "/bin/bulk/page": "app/bin/bulk/page.js",
+  "/bin/lookup/page": "app/bin/lookup/page.js",
+  "/page": "app/page.js"
+}
